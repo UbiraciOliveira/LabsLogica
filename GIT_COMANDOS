@@ -1,0 +1,36 @@
+git@github.com:UbiraciOliveira/ProjetoComEclipse.git
+
+Iniciar o 		 git: git init
+
+Verificar os estatus:	 git status
+
+Adicinar os arquivo	 git add .
+
+Adicibar end do reposito git remote add origin <------------------> 
+
+Empurrar para o gitHub  git push
+Como mudar de um login usuário para outro no git via terminal linux
+
+
+Comando: git config --global --get-regexp user.*
+exibir na tela abaixo
+user.email ubira.domingos@gmail.com
+user.name Ubiraci Oliveira
+
+Se você deseja mudar para outro usuário, você precisará configurar as informações de nome de usuário e e-mail corretos usando o comando git config. 
+Primerero comando
+
+git config --global --get-regexp user.*
+
+git config --global user.name "UbiraciDomingos"
+git config --global user.email "*************@gmail.com"
+
+git config --global user.name "UbiraciOliveira"
+git config --global user.email "*********@gmail.com"
+
+LabsLogica
+
+
+https://www.linkedin.com/in/ubiracidomingos
+
+https://www.linkedin.com/posts/ubiracidomingos_mais-um-dia-de-trabalho-activity-6910373321154965504-ondR?utm_source=share&utm_medium=member_desktop
